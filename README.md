@@ -18,6 +18,7 @@ Finalmente, cuando todos los fumadores terminen, el estanco cerrará.
 En la clase 'Main' puedes añadir los nombres que tu quieras , como predeterminado al descargarlo saldra "Dani" , "Fernando" y "Wanan"
 ### 📙 Requisitos
 - JDK23 o superior
+- IDE NeatBeans23 ( IDE utilizado )
 
 ### 👺 Autor
 
